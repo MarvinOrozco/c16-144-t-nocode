@@ -1,6 +1,8 @@
 ![image](https://github.com/No-Country/c16-144-t-nocode/assets/146497337/481e9235-4a5d-439c-af6d-45ae59e4b1fb)
 
-https://patitas-al-rescate.webflow.io/
+### Página Web: https://patitas-al-rescate.webflow.io/
+
+### Presentación: [<img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro"/>](https://miro.com/app/board/uXjVNg4ppAs=/?share_link_id=781886832357)
 
 ### Demo Video: [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtu.be/olrYv5ge3OA)
 
@@ -9,12 +11,12 @@ La web app tiene como objetivo proporcionar una plataforma a dueños de mascotas
 Estas publicaciones se viralizan a través de las redes sociales como Facdebook e Instagram, y a través de un mapa donde se pueden ver las mascotas perdidas / encontradas por la zona de ubicación del usuario; con el fin de aumentar las posibilidades de recuperación de las mascotas extraviadas.
 
 # 🛠 Tecnologías utilizadas
-| Acción | Herramientas |
+| Organización | Herramientas |
 |-------------------|----------------------------|
 | Research | **Google Forms** | 
-| Organización | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro"/> |
+| Comunicación | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  |
 | UX / UI |  **Webflow** <img width="20" height="20" src="https://img.icons8.com/color/20/figma--v1.png" alt="figma--v1"/> Figma |
-| Presentación | <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />  |
+| Presentación | <img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro"/>  |
 
 
 # 🔴 Características principales
